@@ -5,5 +5,5 @@
 ![image](https://github.com/vighnesh-1/Login-Page/assets/94525514/c3d4fd46-9e1a-4d72-a9ef-75cb16571524)
 ![image](https://github.com/vighnesh-1/Login-Page/assets/94525514/bc087a1d-a1a4-45bb-901f-fdd612f1c6e8)
 
-Front-End: HTML, CSS, JavaScript, React.Js
-Back-End: Node.Js, Express.Js
+# Front-End: HTML, CSS, JavaScript, React.Js
+# Back-End: Node.Js, Express.Js
