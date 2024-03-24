@@ -7,6 +7,6 @@
 ![image](https://github.com/vighnesh-1/Login-Page/assets/94525514/aad3d622-56ed-44e4-887f-dbd22f1697cc)
 
 
-# Front-End: HTML, CSS, JavaScript, React.Js
+# Front-End: HTML, CSS, Bootstrap, JavaScript, React.Js
 # Back-End: Node.Js, Express.Js
 # Database: MongoDB
